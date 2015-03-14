@@ -1,0 +1,9 @@
+[INFO_|03/13 11:27:55|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=452.0, Free=340.1, Used=111.9 [3%]
+[INFO_|03/13 11:27:55|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\mologogo\WEB-INF\dcservers.xml
+[INFO_|03/13 11:27:55|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 13:38:36|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=161.3, Used=146.7 [4%]
+[INFO_|03/13 13:38:36|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\mologogo\WEB-INF\dcservers.xml
+[INFO_|03/13 13:38:36|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 14:34:11|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=162.1, Used=145.9 [4%]
+[INFO_|03/13 14:34:11|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\mologogo\WEB-INF\dcservers.xml
+[INFO_|03/13 14:34:11|RTConfigContextListener.contextInitialized:223] java.awt.headless=false

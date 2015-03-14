@@ -1,0 +1,18 @@
+[INFO_|03/12 14:28:57|Main.main:172] --------------------------------------------------------------------------
+[INFO_|03/12 14:28:57|Main.main:173] Aspicore Server
+[INFO_|03/12 14:28:57|Main.main:174] Copyright 2007-2015, GeoTelematic Solutions, Inc.
+[INFO_|03/12 14:28:57|Main.main:175] Version: 0.1.0  [Wed Mar 11 20:45:30 ICT 2015]
+[INFO_|03/12 14:28:57|Main.main:179] Unique-ID Prefix(s)   : "asp_", "s60_", "imei_", <blank>
+[INFO_|03/12 14:28:57|Main.main:180] Minimum Speed (KPH)   : 3.0
+[INFO_|03/12 14:28:57|Main.main:181] Estimate GPS Odometer : false
+[INFO_|03/12 14:28:57|Main.main:182] Simulate Arrive/Depart: true
+[INFO_|03/12 14:28:57|Main.main:183] TCP Idle Timeout      : 0 ms
+[INFO_|03/12 14:28:57|Main.main:184] TCP Packet Timeout    : 0 ms
+[INFO_|03/12 14:28:57|Main.main:185] TCP Session Timeout   : 0 ms
+[INFO_|03/12 14:28:57|Main.main:186] UDP Idle Timeout      : 2000 ms
+[INFO_|03/12 14:28:57|Main.main:187] UDP Packet Timeout    : 3000 ms
+[INFO_|03/12 14:28:57|Main.main:188] UDP Session Timeout   : 10000 ms
+[INFO_|03/12 14:28:57|Main.main:189] --------------------------------------------------------------------------
+[INFO_|03/12 14:28:58|TrackServer._startTCP:237] Starting TCP listener thread on port 31265 [timeout=0ms] ...
+[INFO_|03/12 14:28:58|TrackServer._startUDP:275] Starting UDP listener thread on port 31265 [timeout=10000ms] ...
+[INFO_|03/12 14:28:58|Main.main:215] --------------------------------------------------------------------------

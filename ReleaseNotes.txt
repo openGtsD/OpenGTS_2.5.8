@@ -1,0 +1,28 @@
+
+Version 2.5.8 [2015/02/12]
+- NEW: Initial support for downloading/installing CelltracGTS/Server plug-in.
+- NEW: Added additional status codes.
+- NEW: Added "places" support to Google map-provider.
+- NEW: Initial support for handling non-linear analog sensors.
+- NEW: Added support for setting DNS caching timeout.
+- UPD: "EventData.allowInnoDBCountWithWhere" property defaults to "true".
+- UPD: GeocodeProvider now checks property overrides in BasicPrivateLabelLoader.
+- UPD: Motion Report "idle" definition changed to 0-speed during trip.
+- DCS: Fixed Sanav CellTower information parsing (reorder CID/LAC).
+
+-----------------------------------------------------------------------------------
+
+Project Home Page:
+    http://www.opengts.org
+
+Download Latest Version from SourceForge:
+    https://sourceforge.net/projects/opengts/
+
+Documentation (installation/configuration, tutorials, FAQ):
+    http://www.opengts.org/FAQ.html
+    http://www.opengts.org/documentation.html
+
+GTS Enterprise:
+    http://www.geotelematic.com/gts.html
+    http://www.geotelematic.com/documentation.html
+

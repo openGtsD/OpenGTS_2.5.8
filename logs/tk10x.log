@@ -1,0 +1,13 @@
+[INFO_|03/12 14:28:25|Main.main:167] --------------------------------------------------------------------------
+[INFO_|03/12 14:28:25|Main.main:168] Generic TK102/TK103
+[INFO_|03/12 14:28:25|Main.main:169] Version: 0.2.35 [2.5.8]
+[INFO_|03/12 14:28:25|Main.main:170] Copyright 2007-2015, GeoTelematic Solutions, Inc.
+[INFO_|03/12 14:28:25|Main.main:171] --------------------------------------------------------------------------
+[INFO_|03/12 14:28:25|Main.main:172] Minimum speed      : 2.0 km/h
+[INFO_|03/12 14:28:25|Main.main:173] Estimating Odometer: true
+[INFO_|03/12 14:28:25|Main.main:174] Simulating Geozone : true
+[INFO_|03/12 14:28:25|Main.main:175] Packet Length      : End-Of-Line Character
+[INFO_|03/12 14:28:25|Main.main:176] Current CharSet    : UTF-8
+[INFO_|03/12 14:28:25|Main.main:177] --------------------------------------------------------------------------
+[INFO_|03/12 14:28:25|TrackServer._startTCP:244] Starting TCP listener thread on port 31272 [timeout=60000ms] ...
+[INFO_|03/12 14:28:25|TrackServer._startUDP:280] Starting UDP listener thread on port 31272 [timeout=60000ms] ...

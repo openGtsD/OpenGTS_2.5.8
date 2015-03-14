@@ -1,0 +1,9 @@
+[INFO_|03/13 11:27:54|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=160.6, Used=147.4 [4%]
+[INFO_|03/13 11:27:54|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gpsmapper\WEB-INF\dcservers.xml
+[INFO_|03/13 11:27:54|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 13:38:35|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=228.0, Used=80.0 [2%]
+[INFO_|03/13 13:38:36|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gpsmapper\WEB-INF\dcservers.xml
+[INFO_|03/13 13:38:36|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 14:34:10|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=230.8, Used=77.2 [2%]
+[INFO_|03/13 14:34:11|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gpsmapper\WEB-INF\dcservers.xml
+[INFO_|03/13 14:34:11|RTConfigContextListener.contextInitialized:223] java.awt.headless=false

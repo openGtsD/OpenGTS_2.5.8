@@ -1,0 +1,396 @@
+[INFO_|03/12 14:57:38|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=253.5, Free=204.9, Used=48.6 [1%]
+[INFO_|03/12 14:57:39|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gprmc\WEB-INF\dcservers.xml
+[INFO_|03/12 14:57:39|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Version                : 2.2.8
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Character Encoding     : windows-1252
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Default AccountID      : ---                     [gprmc.defaultAccountID]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Minimum speed (km/h)   : 4.0                     [gprmc.minimumSpeedKPH]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Simulate Geozones      : false                   [gprmc.simulateGeozones]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Estimate Odometer      : false                   [gprmc.estimateOdometer]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Date Format            : YMD                     [gprmc.dateFormat]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: UniqueID prefix        : gprmc_,ct_,uid_,imei_,  [gprmc.uniquePrefix]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: MobileID parameter     : id,imei,un,mobileid,appid [gprmc.parm.mobile]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: PhoneID parameter      : phone,phonenumber       [gprmc.parm.phone]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Account parameter      : acct,ac,account,a,accountid [gprmc.parm.account]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Device parameter       : dev,device,d,deviceid   [gprmc.parm.device]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Status parameter       : code,sc,pointType       [gprmc.parm.status]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: $GPRMC parameter       : gprmc,rmc,cds,nmea      [gprmc.parm.gprmc]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Date parameter         : date,datetime,dt        [gprmc.parm.date]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Time parameter         : time,ts,tm              [gprmc.parm.time]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Latitude parameter     : lat,latitude            [gprmc.parm.latitude]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Longitude parameter    : lon,longitude,lng,long  [gprmc.parm.longitude]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: SpeedKPH parameter     : speed,kph               [gprmc.parm.speed]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: SpeedMPH parameter     : mph,speedmph            [gprmc.parm.speedmph]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Heading parameter      : head,heading,direction,dir [gprmc.parm.heading]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Altitude parameter     : alt,altitude            [gprmc.parm.altitude]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: OdometerKM parameter   : odom,odometer,odo       [gprmc.parm.odometer]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: OdometerMiles parameter: mile,miles,odomi        [gprmc.parm.odometermiles]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: DistanceKM parameter   : dist,distance,trip      [gprmc.parm.distance]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: DistanceMiles parameter: tripm,distmiles,tripmi  [gprmc.parm.distancemiles]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Address parameter      : addr,address            [gprmc.parm.address]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Driver parameter       : drv,driver              [gprmc.parm.driver]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Message parameter      : msg,message             [gprmc.parm.message]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Battery Level parameter: batl,battl,battlevel,batt [gprmc.parm.battlevel]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Battery Volts parameter: batv,battv,battvolts    [gprmc.parm.battvolts]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Battery TempC parameter: batc,battc,batttemp     [gprmc.parm.batttemp]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: Temperature parameter  : temp,tempc,temperature  [gprmc.parm.temperature]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: MCC parameter  : mcc                     [gprmc.parm.mcc]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: MNC parameter  : mnc                     [gprmc.parm.mnc]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: LAC parameter  : lac                     [gprmc.parm.lac]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: CID parameter  : cid                     [gprmc.parm.cid]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: TAV parameter  : tav                     [gprmc.parm.tav]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: RAT parameter  : rat                     [gprmc.parm.rat]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: RXLEV parameter: rxlev,rxlvl,rxl         [gprmc.parm.rxlev]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: CellID: ARFCN parameter: arfcn,arf               [gprmc.parm.arfcn]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: 'OK' Response          : OK                      [gprmc.response.ok]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: 'Error' Response       : ERROR                   [gprmc.response.error]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: 'Auth' Response        : ERROR                   [gprmc.response.notAuth]
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/12 15:08:29|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:08:29|Data.logWarn:1634] gprmc: Mobile ID not found!: 123456789012345 [gprmc_123456789012345]
+[INFO_|03/12 15:18:12|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:18:12|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 15:18:12|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:18:12|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 15:18:12|Data.logInfo:1629] gprmc: Fixtime  : [1426148292] Thu Mar 12 15:18:12 ICT 2015
+[INFO_|03/12 15:18:12|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 15:18:12|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 15:18:12|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 15:18:12|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 15:18:12|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/12 15:18:39|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:18:39|Data.logWarn:1634] gprmc: Mobile ID not found!: 123456789012345 [gprmc_123456789012345]
+[INFO_|03/12 15:18:48|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:18:48|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 15:18:48|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:18:48|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 15:18:48|Data.logInfo:1629] gprmc: Fixtime  : [1426148328] Thu Mar 12 15:18:48 ICT 2015
+[INFO_|03/12 15:18:48|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 15:18:48|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 15:18:48|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 15:18:48|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 15:18:48|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/12 15:19:03|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:19:03|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 15:19:03|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:19:03|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 15:19:03|Data.logInfo:1629] gprmc: Fixtime  : [1426148343] Thu Mar 12 15:19:03 ICT 2015
+[INFO_|03/12 15:19:03|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 15:19:03|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 15:19:03|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 15:19:03|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 15:19:03|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/12 15:19:05|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:19:05|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 15:19:05|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:19:05|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 15:19:05|Data.logInfo:1629] gprmc: Fixtime  : [1426148345] Thu Mar 12 15:19:05 ICT 2015
+[INFO_|03/12 15:19:05|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 15:19:05|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 15:19:05|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 15:19:05|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 15:19:05|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/12 15:19:25|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:19:25|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 15:19:25|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:19:25|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 15:19:25|Data.logInfo:1629] gprmc: Fixtime  : [1426148365] Thu Mar 12 15:19:25 ICT 2015
+[INFO_|03/12 15:19:25|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 15:19:25|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 15:19:25|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 15:19:25|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 15:19:25|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/12 15:31:17|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=1234567890123456&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:31:17|Data.logWarn:1634] gprmc: Mobile ID not found!: 1234567890123456 [gprmc_1234567890123456]
+[INFO_|03/12 15:32:26|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:32:26|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 15:32:26|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 15:32:26|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 15:32:26|Data.logInfo:1629] gprmc: Fixtime  : [1426149146] Thu Mar 12 15:32:26 ICT 2015
+[INFO_|03/12 15:32:26|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 15:32:26|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 15:32:26|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 15:32:26|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 15:32:26|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/12 16:25:06|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF021&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 16:25:06|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 16:25:06|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 16:25:06|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 16:25:06|Data.logInfo:1629] gprmc: Fixtime  : [1426152306] Thu Mar 12 16:25:06 ICT 2015
+[INFO_|03/12 16:25:06|Data.logInfo:1629] gprmc: Status   : [0xF021] Location_1
+[INFO_|03/12 16:25:06|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 16:25:06|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 16:25:06|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[INFO_|03/12 16:25:06|Device.log_EventData:9113] Event: 2015/03/12|16:25:06|ICT, demo|thaitest, 0xF021|Location_1, 0.00000|0.00000, 0.0|0
+[INFO_|03/12 16:25:06|Device.checkEventRules:10573] Notification disallowed for this Account/Device: demo/thaitest
+[INFO_|03/12 16:25:12|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF021&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 16:25:12|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 16:25:12|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 16:25:12|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 16:25:12|Data.logInfo:1629] gprmc: Fixtime  : [1426152312] Thu Mar 12 16:25:12 ICT 2015
+[INFO_|03/12 16:25:12|Data.logInfo:1629] gprmc: Status   : [0xF021] Location_1
+[INFO_|03/12 16:25:12|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 16:25:12|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 16:25:12|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[INFO_|03/12 16:25:12|Device.log_EventData:9113] Event: 2015/03/12|16:25:12|ICT, demo|thaitest, 0xF021|Location_1, 0.00000|0.00000, 0.0|0
+[INFO_|03/12 16:25:12|Device.checkEventRules:10573] Notification disallowed for this Account/Device: demo/thaitest
+[INFO_|03/12 18:10:05|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=244.0, Free=201.4, Used=42.6 [1%]
+[INFO_|03/12 18:10:05|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gprmc\WEB-INF\dcservers.xml
+[INFO_|03/12 18:10:05|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Version                : 2.2.8
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Character Encoding     : windows-1252
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Default AccountID      : ---                     [gprmc.defaultAccountID]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Minimum speed (km/h)   : 4.0                     [gprmc.minimumSpeedKPH]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Simulate Geozones      : false                   [gprmc.simulateGeozones]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Estimate Odometer      : false                   [gprmc.estimateOdometer]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Date Format            : YMD                     [gprmc.dateFormat]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: UniqueID prefix        : gprmc_,ct_,uid_,imei_,  [gprmc.uniquePrefix]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: MobileID parameter     : id,imei,un,mobileid,appid [gprmc.parm.mobile]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: PhoneID parameter      : phone,phonenumber       [gprmc.parm.phone]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Account parameter      : acct,ac,account,a,accountid [gprmc.parm.account]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Device parameter       : dev,device,d,deviceid   [gprmc.parm.device]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Status parameter       : code,sc,pointType       [gprmc.parm.status]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: $GPRMC parameter       : gprmc,rmc,cds,nmea      [gprmc.parm.gprmc]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Date parameter         : date,datetime,dt        [gprmc.parm.date]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Time parameter         : time,ts,tm              [gprmc.parm.time]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Latitude parameter     : lat,latitude            [gprmc.parm.latitude]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Longitude parameter    : lon,longitude,lng,long  [gprmc.parm.longitude]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: SpeedKPH parameter     : speed,kph               [gprmc.parm.speed]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: SpeedMPH parameter     : mph,speedmph            [gprmc.parm.speedmph]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Heading parameter      : head,heading,direction,dir [gprmc.parm.heading]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Altitude parameter     : alt,altitude            [gprmc.parm.altitude]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: OdometerKM parameter   : odom,odometer,odo       [gprmc.parm.odometer]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: OdometerMiles parameter: mile,miles,odomi        [gprmc.parm.odometermiles]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: DistanceKM parameter   : dist,distance,trip      [gprmc.parm.distance]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: DistanceMiles parameter: tripm,distmiles,tripmi  [gprmc.parm.distancemiles]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Address parameter      : addr,address            [gprmc.parm.address]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Driver parameter       : drv,driver              [gprmc.parm.driver]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Message parameter      : msg,message             [gprmc.parm.message]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Battery Level parameter: batl,battl,battlevel,batt [gprmc.parm.battlevel]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Battery Volts parameter: batv,battv,battvolts    [gprmc.parm.battvolts]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Battery TempC parameter: batc,battc,batttemp     [gprmc.parm.batttemp]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: Temperature parameter  : temp,tempc,temperature  [gprmc.parm.temperature]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: MCC parameter  : mcc                     [gprmc.parm.mcc]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: MNC parameter  : mnc                     [gprmc.parm.mnc]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: LAC parameter  : lac                     [gprmc.parm.lac]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: CID parameter  : cid                     [gprmc.parm.cid]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: TAV parameter  : tav                     [gprmc.parm.tav]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: RAT parameter  : rat                     [gprmc.parm.rat]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: RXLEV parameter: rxlev,rxlvl,rxl         [gprmc.parm.rxlev]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: CellID: ARFCN parameter: arfcn,arf               [gprmc.parm.arfcn]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: 'OK' Response          : OK                      [gprmc.response.ok]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: 'Error' Response       : ERROR                   [gprmc.response.error]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: 'Auth' Response        : ERROR                   [gprmc.response.notAuth]
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/12 18:10:16|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF021&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 18:10:17|DBConnection.parseCommunicationsException:282] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[WARN_|03/12 18:10:19|DBConnection.parseCommunicationsException:282] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|03/12 18:10:20|Data.logError:1642] gprmc: Exception getting Device: gprmc_123456789012345 [org.opengts.dbtools.DBException: Getting Device unique-id: gprmc_123456789012345 [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]]
+[INFO_|03/12 18:14:30|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF021&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 18:14:31|DBConnection.parseCommunicationsException:282] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[WARN_|03/12 18:14:33|DBConnection.parseCommunicationsException:282] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|03/12 18:14:34|Data.logError:1642] gprmc: Exception getting Device: gprmc_123456789012345 [org.opengts.dbtools.DBException: Getting Device unique-id: gprmc_123456789012345 [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]]
+[INFO_|03/12 18:14:48|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 18:14:49|DBConnection.parseCommunicationsException:282] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[WARN_|03/12 18:14:51|DBConnection.parseCommunicationsException:282] SQL(CommunicationsException) close/retry [0]: Connection Age 0 ms
+[ERROR|03/12 18:14:52|Data.logError:1642] gprmc: Exception getting Device: gprmc_123456789012345 [org.opengts.dbtools.DBException: Getting Device unique-id: gprmc_123456789012345 [com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.]]
+[INFO_|03/12 20:38:20|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 20:38:20|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/12 20:38:20|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/12 20:38:20|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/12 20:38:20|Data.logInfo:1629] gprmc: Fixtime  : [1426167500] Thu Mar 12 20:38:20 ICT 2015
+[INFO_|03/12 20:38:20|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/12 20:38:20|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/12 20:38:20|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/12 20:38:20|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/12 20:38:20|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/13 11:25:19|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=244.0, Free=200.0, Used=44.0 [1%]
+[INFO_|03/13 11:25:19|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gprmc\WEB-INF\dcservers.xml
+[INFO_|03/13 11:25:19|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Version                : 2.2.8
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Character Encoding     : windows-1252
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Default AccountID      : ---                     [gprmc.defaultAccountID]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Minimum speed (km/h)   : 4.0                     [gprmc.minimumSpeedKPH]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Simulate Geozones      : false                   [gprmc.simulateGeozones]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Estimate Odometer      : false                   [gprmc.estimateOdometer]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Date Format            : YMD                     [gprmc.dateFormat]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: UniqueID prefix        : gprmc_,ct_,uid_,imei_,  [gprmc.uniquePrefix]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: MobileID parameter     : id,imei,un,mobileid,appid [gprmc.parm.mobile]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: PhoneID parameter      : phone,phonenumber       [gprmc.parm.phone]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Account parameter      : acct,ac,account,a,accountid [gprmc.parm.account]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Device parameter       : dev,device,d,deviceid   [gprmc.parm.device]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Status parameter       : code,sc,pointType       [gprmc.parm.status]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: $GPRMC parameter       : gprmc,rmc,cds,nmea      [gprmc.parm.gprmc]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Date parameter         : date,datetime,dt        [gprmc.parm.date]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Time parameter         : time,ts,tm              [gprmc.parm.time]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Latitude parameter     : lat,latitude            [gprmc.parm.latitude]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Longitude parameter    : lon,longitude,lng,long  [gprmc.parm.longitude]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: SpeedKPH parameter     : speed,kph               [gprmc.parm.speed]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: SpeedMPH parameter     : mph,speedmph            [gprmc.parm.speedmph]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Heading parameter      : head,heading,direction,dir [gprmc.parm.heading]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Altitude parameter     : alt,altitude            [gprmc.parm.altitude]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: OdometerKM parameter   : odom,odometer,odo       [gprmc.parm.odometer]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: OdometerMiles parameter: mile,miles,odomi        [gprmc.parm.odometermiles]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: DistanceKM parameter   : dist,distance,trip      [gprmc.parm.distance]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: DistanceMiles parameter: tripm,distmiles,tripmi  [gprmc.parm.distancemiles]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Address parameter      : addr,address            [gprmc.parm.address]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Driver parameter       : drv,driver              [gprmc.parm.driver]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Message parameter      : msg,message             [gprmc.parm.message]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Battery Level parameter: batl,battl,battlevel,batt [gprmc.parm.battlevel]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Battery Volts parameter: batv,battv,battvolts    [gprmc.parm.battvolts]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Battery TempC parameter: batc,battc,batttemp     [gprmc.parm.batttemp]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Temperature parameter  : temp,tempc,temperature  [gprmc.parm.temperature]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: MCC parameter  : mcc                     [gprmc.parm.mcc]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: MNC parameter  : mnc                     [gprmc.parm.mnc]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: LAC parameter  : lac                     [gprmc.parm.lac]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: CID parameter  : cid                     [gprmc.parm.cid]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: TAV parameter  : tav                     [gprmc.parm.tav]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: RAT parameter  : rat                     [gprmc.parm.rat]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: RXLEV parameter: rxlev,rxlvl,rxl         [gprmc.parm.rxlev]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: CellID: ARFCN parameter: arfcn,arf               [gprmc.parm.arfcn]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: 'OK' Response          : OK                      [gprmc.response.ok]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: 'Error' Response       : ERROR                   [gprmc.response.error]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: 'Auth' Response        : ERROR                   [gprmc.response.notAuth]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data id=123456789012345&code=0xF020&gprmc=$GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/13 11:25:31|Nmea0183._hasValidChecksum:1335] Expected checksum: 0x44
+[ERROR|03/13 11:25:31|Nmea0183.parse:707] Invalid Checksum: $GPRMC,080701.00,A,3128.7540,N,14257.6714,W,000.0,000.0,180707,,,A*1C
+[WARN_|03/13 11:25:31|Data.logWarn:1634] gprmc: Invalid latitude/longitude
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Fixtime  : [1426220731] Fri Mar 13 11:25:31 ICT 2015
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Status   : [0xF020] Location
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: Device   : demo/thaitest [gprmc_123456789012345]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: GeoPoint : 0.0/0.0 [0]
+[INFO_|03/13 11:25:31|Data.logInfo:1629] gprmc: SpeedKPH : 0.0 km/h  [0.0]
+[WARN_|03/13 11:25:31|Data.logWarn:1634] gprmc: Ignoring event with invalid latitude/longitude
+[INFO_|03/13 11:28:05|DBConnection.closeAllConnections:387] Closed all open DBConnections: 1
+[INFO_|03/13 11:28:06|RTConfigContextListener.contextDestroyed:255] Remaining pool threads [0]: 0
+[INFO_|03/13 11:28:06|RTConfigContextListener.contextDestroyed:258] ... Servlet Context destroyed: dcs:w-gprmc
+[INFO_|03/13 11:28:06|RTConfigContextListener.contextDestroyed:259] -----------------------------------------------
+[INFO_|03/13 11:28:06|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=452.0, Free=263.7, Used=188.3 [5%]
+[INFO_|03/13 11:28:06|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gprmc\WEB-INF\dcservers.xml
+[INFO_|03/13 11:28:06|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 13:38:34|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=184.0, Used=124.0 [3%]
+[INFO_|03/13 13:38:35|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gprmc\WEB-INF\dcservers.xml
+[INFO_|03/13 13:38:35|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Version                : 2.2.8
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Character Encoding     : windows-1252
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Default AccountID      : ---                     [gprmc.defaultAccountID]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Minimum speed (km/h)   : 4.0                     [gprmc.minimumSpeedKPH]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Simulate Geozones      : false                   [gprmc.simulateGeozones]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Estimate Odometer      : false                   [gprmc.estimateOdometer]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Date Format            : YMD                     [gprmc.dateFormat]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: UniqueID prefix        : gprmc_,ct_,uid_,imei_,  [gprmc.uniquePrefix]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: MobileID parameter     : id,imei,un,mobileid,appid [gprmc.parm.mobile]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: PhoneID parameter      : phone,phonenumber       [gprmc.parm.phone]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Account parameter      : acct,ac,account,a,accountid [gprmc.parm.account]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Device parameter       : dev,device,d,deviceid   [gprmc.parm.device]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Status parameter       : code,sc,pointType       [gprmc.parm.status]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: $GPRMC parameter       : gprmc,rmc,cds,nmea      [gprmc.parm.gprmc]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Date parameter         : date,datetime,dt        [gprmc.parm.date]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Time parameter         : time,ts,tm              [gprmc.parm.time]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Latitude parameter     : lat,latitude            [gprmc.parm.latitude]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Longitude parameter    : lon,longitude,lng,long  [gprmc.parm.longitude]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: SpeedKPH parameter     : speed,kph               [gprmc.parm.speed]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: SpeedMPH parameter     : mph,speedmph            [gprmc.parm.speedmph]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Heading parameter      : head,heading,direction,dir [gprmc.parm.heading]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Altitude parameter     : alt,altitude            [gprmc.parm.altitude]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: OdometerKM parameter   : odom,odometer,odo       [gprmc.parm.odometer]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: OdometerMiles parameter: mile,miles,odomi        [gprmc.parm.odometermiles]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: DistanceKM parameter   : dist,distance,trip      [gprmc.parm.distance]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: DistanceMiles parameter: tripm,distmiles,tripmi  [gprmc.parm.distancemiles]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Address parameter      : addr,address            [gprmc.parm.address]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Driver parameter       : drv,driver              [gprmc.parm.driver]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Message parameter      : msg,message             [gprmc.parm.message]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Battery Level parameter: batl,battl,battlevel,batt [gprmc.parm.battlevel]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Battery Volts parameter: batv,battv,battvolts    [gprmc.parm.battvolts]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Battery TempC parameter: batc,battc,batttemp     [gprmc.parm.batttemp]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: Temperature parameter  : temp,tempc,temperature  [gprmc.parm.temperature]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: MCC parameter  : mcc                     [gprmc.parm.mcc]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: MNC parameter  : mnc                     [gprmc.parm.mnc]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: LAC parameter  : lac                     [gprmc.parm.lac]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: CID parameter  : cid                     [gprmc.parm.cid]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: TAV parameter  : tav                     [gprmc.parm.tav]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: RAT parameter  : rat                     [gprmc.parm.rat]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: RXLEV parameter: rxlev,rxlvl,rxl         [gprmc.parm.rxlev]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: CellID: ARFCN parameter: arfcn,arf               [gprmc.parm.arfcn]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: 'OK' Response          : OK                      [gprmc.response.ok]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: 'Error' Response       : ERROR                   [gprmc.response.error]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: 'Auth' Response        : ERROR                   [gprmc.response.notAuth]
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/13 14:14:51|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data acct=demo&dev=355677060624737&lon=106.6527163&lat=10.8019521&head=0.0&speed=0.0&alt=0.0&time=1426230853512&code=61472
+[WARN_|03/13 14:14:51|Transport.loadDeviceByTransportID:1691] Device not found: demo/355677060624737
+[ERROR|03/13 14:14:51|Data.logError:1642] gprmc: Device not found AccountID/DeviceID: demo/355677060624737
+[INFO_|03/13 14:16:37|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data acct=demo&dev=355677060624737&lon=106.6527163&lat=10.8019521&head=0.0&speed=0.0&alt=0.0&time=1426230853512&code=61472
+[WARN_|03/13 14:16:37|Transport.loadDeviceByTransportID:1691] Device not found: demo/355677060624737
+[ERROR|03/13 14:16:37|Data.logError:1642] gprmc: Device not found AccountID/DeviceID: demo/355677060624737
+[INFO_|03/13 14:16:38|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data acct=demo&dev=355677060624737&lon=106.6527163&lat=10.8019521&head=0.0&speed=0.0&alt=0.0&time=1426230853512&code=61472
+[WARN_|03/13 14:16:38|Transport.loadDeviceByTransportID:1691] Device not found: demo/355677060624737
+[ERROR|03/13 14:16:38|Data.logError:1642] gprmc: Device not found AccountID/DeviceID: demo/355677060624737
+[INFO_|03/13 14:27:37|Data.logInfo:1629] gprmc: [127.0.0.1] GET: http://localhost:8282/gprmc/Data acct=demo&dev=355677060624737&lon=106.6527163&lat=10.8019521&head=0.0&speed=0.0&alt=0.0&time=1426230853512&code=61472
+[WARN_|03/13 14:27:37|Transport.loadDeviceByTransportID:1691] Device not found: demo/355677060624737
+[ERROR|03/13 14:27:37|Data.logError:1642] gprmc: Device not found AccountID/DeviceID: demo/355677060624737
+[INFO_|03/13 14:28:07|Data.logInfo:1629] gprmc: [192.168.86.159] GET: http://192.168.86.159:8282/gprmc/Data acct=demo&dev=355677060624737&lon=106.6527163&lat=10.8019521&head=0.0&speed=0.0&alt=0.0&time=1426231622763&code=61472
+[WARN_|03/13 14:28:07|Transport.loadDeviceByTransportID:1691] Device not found: demo/355677060624737
+[ERROR|03/13 14:28:07|Data.logError:1642] gprmc: Device not found AccountID/DeviceID: demo/355677060624737
+[INFO_|03/13 14:34:10|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=244.0, Free=178.5, Used=65.5 [2%]
+[INFO_|03/13 14:34:10|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\gprmc\WEB-INF\dcservers.xml
+[INFO_|03/13 14:34:10|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Version                : 2.2.8
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Character Encoding     : windows-1252
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Default AccountID      : ---                     [gprmc.defaultAccountID]
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Minimum speed (km/h)   : 4.0                     [gprmc.minimumSpeedKPH]
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Simulate Geozones      : false                   [gprmc.simulateGeozones]
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Estimate Odometer      : false                   [gprmc.estimateOdometer]
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: Date Format            : YMD                     [gprmc.dateFormat]
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: UniqueID prefix        : gprmc_,ct_,uid_,imei_,  [gprmc.uniquePrefix]
+[INFO_|03/13 14:37:31|Data.logInfo:1629] gprmc: MobileID parameter     : id,imei,un,mobileid,appid [gprmc.parm.mobile]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: PhoneID parameter      : phone,phonenumber       [gprmc.parm.phone]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Account parameter      : acct,ac,account,a,accountid [gprmc.parm.account]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Device parameter       : dev,device,d,deviceid   [gprmc.parm.device]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Status parameter       : code,sc,pointType       [gprmc.parm.status]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: $GPRMC parameter       : gprmc,rmc,cds,nmea      [gprmc.parm.gprmc]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Date parameter         : date,datetime,dt        [gprmc.parm.date]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Time parameter         : time,ts,tm              [gprmc.parm.time]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Latitude parameter     : lat,latitude            [gprmc.parm.latitude]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Longitude parameter    : lon,longitude,lng,long  [gprmc.parm.longitude]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: SpeedKPH parameter     : speed,kph               [gprmc.parm.speed]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: SpeedMPH parameter     : mph,speedmph            [gprmc.parm.speedmph]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Heading parameter      : head,heading,direction,dir [gprmc.parm.heading]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Altitude parameter     : alt,altitude            [gprmc.parm.altitude]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: OdometerKM parameter   : odom,odometer,odo       [gprmc.parm.odometer]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: OdometerMiles parameter: mile,miles,odomi        [gprmc.parm.odometermiles]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: DistanceKM parameter   : dist,distance,trip      [gprmc.parm.distance]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: DistanceMiles parameter: tripm,distmiles,tripmi  [gprmc.parm.distancemiles]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Address parameter      : addr,address            [gprmc.parm.address]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Driver parameter       : drv,driver              [gprmc.parm.driver]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Message parameter      : msg,message             [gprmc.parm.message]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Battery Level parameter: batl,battl,battlevel,batt [gprmc.parm.battlevel]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Battery Volts parameter: batv,battv,battvolts    [gprmc.parm.battvolts]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Battery TempC parameter: batc,battc,batttemp     [gprmc.parm.batttemp]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: Temperature parameter  : temp,tempc,temperature  [gprmc.parm.temperature]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: MCC parameter  : mcc                     [gprmc.parm.mcc]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: MNC parameter  : mnc                     [gprmc.parm.mnc]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: LAC parameter  : lac                     [gprmc.parm.lac]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: CID parameter  : cid                     [gprmc.parm.cid]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: TAV parameter  : tav                     [gprmc.parm.tav]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: RAT parameter  : rat                     [gprmc.parm.rat]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: RXLEV parameter: rxlev,rxlvl,rxl         [gprmc.parm.rxlev]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: CellID: ARFCN parameter: arfcn,arf               [gprmc.parm.arfcn]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: 'OK' Response          : OK                      [gprmc.response.ok]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: 'Error' Response       : ERROR                   [gprmc.response.error]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: 'Auth' Response        : ERROR                   [gprmc.response.notAuth]
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: -----------------------------------------------------------------------
+[INFO_|03/13 14:37:32|Data.logInfo:1629] gprmc: [192.168.86.159] GET: http://192.168.86.159:8282/gprmc/Data acct=demo&dev=355677060624737&lon=106.6527163&lat=10.8019521&head=0.0&speed=0.0&alt=0.0&time=1426231622763&code=61472
+[WARN_|03/13 14:37:32|Transport.loadDeviceByTransportID:1691] Device not found: demo/355677060624737
+[ERROR|03/13 14:37:32|Data.logError:1642] gprmc: Device not found AccountID/DeviceID: demo/355677060624737

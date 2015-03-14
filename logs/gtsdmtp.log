@@ -1,0 +1,45 @@
+[INFO_|03/11 22:49:50|Main.main:199] ----------------------------------------------------------------
+[INFO_|03/11 22:49:50|Main.main:200] OpenDMTP (GTS) Java Server
+[INFO_|03/11 22:49:50|Main.main:201] Copyright 2007-2015, GeoTelematic Solutions, Inc.
+[INFO_|03/11 22:49:50|Main.main:202] DMTP Version     : 1.3.6
+[INFO_|03/11 22:49:50|Main.main:203] GTSDMTP Version  : 1.2.3
+[INFO_|03/11 22:49:50|Main.main:204] GTS  Version     : 2.5.8
+[INFO_|03/11 22:49:50|Main.main:205] SQL Database Name: gts
+[INFO_|03/11 22:49:50|Main.main:206] Transport Enabled: true
+[INFO_|03/11 22:49:50|Main.main:207] Message Log Level: INFO_
+[INFO_|03/11 22:49:50|Main.main:209] ----------------------------------------------------------------
+[INFO_|03/11 22:49:51|Main.main:252] UDP responses/acks will be returned to UDP packets ...
+[INFO_|03/11 22:49:51|DeviceDBImpl.configInit:107] Estimate Odometer  : false
+[INFO_|03/11 22:49:51|DeviceDBImpl.configInit:108] Simulated Geozones : false
+[INFO_|03/11 22:49:51|DMTPServer.startTCP:251] DMTP: Starting TCP listener thread on port 31000 [timeout=15000ms] ...
+[INFO_|03/11 22:49:51|DMTPServer.startUDP:291] DMTP: Starting UDP listener thread on port 31000 [timeout=60000ms] ...
+[INFO_|03/11 22:59:27|Main.main:199] ----------------------------------------------------------------
+[INFO_|03/11 22:59:27|Main.main:200] OpenDMTP (GTS) Java Server
+[INFO_|03/11 22:59:27|Main.main:201] Copyright 2007-2015, GeoTelematic Solutions, Inc.
+[INFO_|03/11 22:59:27|Main.main:202] DMTP Version     : 1.3.6
+[INFO_|03/11 22:59:28|Main.main:203] GTSDMTP Version  : 1.2.3
+[INFO_|03/11 22:59:28|Main.main:204] GTS  Version     : 2.5.8
+[INFO_|03/11 22:59:28|Main.main:205] SQL Database Name: gts
+[INFO_|03/11 22:59:28|Main.main:206] Transport Enabled: true
+[INFO_|03/11 22:59:28|Main.main:207] Message Log Level: INFO_
+[INFO_|03/11 22:59:28|Main.main:209] ----------------------------------------------------------------
+[INFO_|03/11 22:59:28|Main.main:252] UDP responses/acks will be returned to UDP packets ...
+[INFO_|03/11 22:59:28|DeviceDBImpl.configInit:107] Estimate Odometer  : false
+[INFO_|03/11 22:59:28|DeviceDBImpl.configInit:108] Simulated Geozones : false
+[INFO_|03/11 22:59:28|DMTPServer.startTCP:251] DMTP: Starting TCP listener thread on port 31000 [timeout=15000ms] ...
+[INFO_|03/11 22:59:28|DMTPServer.startUDP:291] DMTP: Starting UDP listener thread on port 31000 [timeout=60000ms] ...
+[INFO_|03/12 14:27:40|Main.main:199] ----------------------------------------------------------------
+[INFO_|03/12 14:27:40|Main.main:200] OpenDMTP (GTS) Java Server
+[INFO_|03/12 14:27:40|Main.main:201] Copyright 2007-2015, GeoTelematic Solutions, Inc.
+[INFO_|03/12 14:27:40|Main.main:202] DMTP Version     : 1.3.6
+[INFO_|03/12 14:27:40|Main.main:203] GTSDMTP Version  : 1.2.3
+[INFO_|03/12 14:27:40|Main.main:204] GTS  Version     : 2.5.8
+[INFO_|03/12 14:27:40|Main.main:205] SQL Database Name: gts
+[INFO_|03/12 14:27:40|Main.main:206] Transport Enabled: true
+[INFO_|03/12 14:27:40|Main.main:207] Message Log Level: INFO_
+[INFO_|03/12 14:27:40|Main.main:209] ----------------------------------------------------------------
+[INFO_|03/12 14:27:40|Main.main:252] UDP responses/acks will be returned to UDP packets ...
+[INFO_|03/12 14:27:40|DeviceDBImpl.configInit:107] Estimate Odometer  : false
+[INFO_|03/12 14:27:40|DeviceDBImpl.configInit:108] Simulated Geozones : false
+[INFO_|03/12 14:27:40|DMTPServer.startTCP:251] DMTP: Starting TCP listener thread on port 31000 [timeout=15000ms] ...
+[INFO_|03/12 14:27:40|DMTPServer.startUDP:291] DMTP: Starting UDP listener thread on port 31000 [timeout=60000ms] ...

@@ -1,0 +1,14 @@
+[INFO_|03/13 11:27:33|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=308.0, Free=189.6, Used=118.4 [3%]
+[INFO_|03/13 11:27:33|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\events\WEB-INF\dcservers.xml
+[INFO_|03/13 11:27:33|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[ERROR|03/13 11:30:06|Events._doWork:388] Account password was invalid: demo
+[ERROR|03/13 13:15:23|Events._doWork:388] Account password was invalid: demo
+[INFO_|03/13 13:31:02|EventData.getOdometerOffsetKM:1796] Default Odometer Offset Type: BEST
+[INFO_|03/13 13:31:02|EventData.getOdometerOffsetKM:1797] (Odometer offset obtained from the EventData or Device records)
+[INFO_|03/13 13:38:32|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=244.0, Free=200.9, Used=43.1 [1%]
+[INFO_|03/13 13:38:33|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\events\WEB-INF\dcservers.xml
+[INFO_|03/13 13:38:33|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
+[ERROR|03/13 13:39:14|Events._doWork:388] Account password was invalid: demo
+[INFO_|03/13 14:34:08|OSTools.printMemoryUsage:1206] Memory-Mb: Max=3618.0, Total=244.0, Free=199.6, Used=44.4 [1%]
+[INFO_|03/13 14:34:08|DCServerFactory._loadDCServerXML:625] DCServerConfig XML file not loaded: D:\drone\tomcat7\webapps\events\WEB-INF\dcservers.xml
+[INFO_|03/13 14:34:08|RTConfigContextListener.contextInitialized:223] java.awt.headless=false
